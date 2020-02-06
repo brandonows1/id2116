@@ -1,6 +1,6 @@
 
 body {
-    background-color: lightblue;
+    background-color: lightgray;
   }
 
   h1   {color: black;
@@ -15,7 +15,7 @@ font-size: 100%
   font-family: Helvetica;
 font: size 100%;
 }
-  li    {color: blue;
+  li    {color: black;
   font-family: Helvetica;
 font-size: 100%;
 }

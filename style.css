@@ -3,6 +3,12 @@ body {
     background-color: lightgray;
   }
 
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   h1   {color: black;
   font-family: Helvetica;
 font-size: 150%;

@@ -1,6 +1,6 @@
 
 body {
-    background-color: lightgray;
+    background-color: rgb(236, 228, 228);
   }
 
 img {
@@ -10,12 +10,12 @@ img {
   }
 
 h1   {color: black;
-  font-family: Helvetica;
+  font-family: Georgia;
 font-size: 150%;
 }
 
 h2   {color: black;
-  font-family: Helvetica;
+  font-family: Georgia;
 font-size: 100%
 }
 
